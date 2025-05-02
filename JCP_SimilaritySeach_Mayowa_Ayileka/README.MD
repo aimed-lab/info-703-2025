@@ -34,7 +34,7 @@ This project bridges high-content cellular imaging data with modern vector searc
 
 ---
 
-## Links to Original JCP 
+## Links to Original JCP Data
 ## Dataset Overview
 
 | Dataset  | Matches URL          | Feature Ranking URL       | Gallery URL             | Description           |
