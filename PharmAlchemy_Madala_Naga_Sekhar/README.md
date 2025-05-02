@@ -39,7 +39,8 @@ PharmAlchemy integrates biomedical datasets (DisGeNET, STRING, DrugBank, SIDER) 
   - Standardizing DrugBank drug-target relationships
   - Cleaning STRING gene-to-protein tables
   - Mapping side effects from SIDER
-- All cleaned data outputs are available on [Zenodo](https://zenodo.org/) (DOI will be added after final upload)
+- All cleaned data outputs are available on [[Zenodo](https://zenodo.org/)](https://zenodo.org/records/15328433?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjU5ZjUyZWQzLTg0ZTAtNGRiMy05NDliLWJmNWNkNGIwNTIyYiIsImRhdGEiOnt9LCJyYW5kb20iOiI2ZDdlMTIzYzUzYjVlNDdkOGQxYWY1ZDI2Mzk4NmIxOCJ9.LCM8yuRPBnsPYtMQKJvEAwIdcMgphQeDl--xsgQGcSdQM5_7N_RJNmsQoYB2jnjdhJ864eiRnaRHPuFJu1N_kw)
+ (DOI will be added after final upload)
 
 ---
 
