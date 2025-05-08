@@ -76,7 +76,7 @@ This repository is shared under the [MIT License](LICENSE).
 
 ## 📦 Data Availability
 
-Cleaned and standardized dataset outputs are available on Zenodo under DOI: **[pending Zenodo link]**
+Cleaned and standardized dataset outputs are available on Zenodo under DOI.
 
 ---
 
